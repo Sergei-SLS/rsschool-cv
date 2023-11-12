@@ -23,3 +23,25 @@
 * **JavaScript (Basic)**
 * **Git**
 * **VS Code**
+
+## Code example
+
+```
+function colourAssociation(array){
+  let result = [];
+  for (let i = 0; i < array.length; i++) {
+    result[i] = {[array[i][0]] : array[i][1]}
+  }
+  return result;
+}
+```
+
+## Education
+* **University:** Nizhny Novgorod State Pedagogical University named after Kozma Minin
+  * **Faculty:** Information systems and technologies
+* **Course:**  The Rolling Scopes School JS / FRONT-END. STAGE 0
+
+## Language
+Russian - native
+
+  English - A1
